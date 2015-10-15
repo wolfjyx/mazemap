@@ -1,0 +1,2 @@
+# mazemap
+a maze map
